@@ -1,0 +1,9 @@
+numpy
+numpydoc
+scipy
+scikit-image
+scikit-learn
+pandas
+seaborn
+ipywidgets
+voila
